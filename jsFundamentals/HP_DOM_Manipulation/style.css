@@ -1,0 +1,37 @@
+/* MAIN */
+body{
+    overflow-x: hidden;
+}
+/* PROJECT */
+.myProj {
+    width: cover;
+}
+
+.carousel-item img {
+    height: 100vh;
+    width: 100wh;
+}
+
+/*CONTACT*/
+.contactMe {
+    display: flex;
+    height: 100vh;
+    background-color: black;
+    align-items: center
+;
+}
+
+.form {
+    background-color: rgba(255,255,255,.6);
+    border-radius: 10px;
+    padding: 2em;
+}
+.button {
+    margin: 6em 0;
+}
+
+/* FOOTER */
+footer {
+    margin-top: 1em;
+    bottom: 0;
+}
